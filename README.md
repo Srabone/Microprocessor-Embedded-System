@@ -1,5 +1,5 @@
 # Temperature Dependent Motor Control
-It is an open ended lab performance I had done along with my groupmates named 'Temperature Dependent Motor Control'. The main purpose of this experiment is to adjust the speed of a motor according to the temperature. If the temperature is high, motor speed will increase and if temperature is low, motor speed will decrease.
+It is an open ended lab performance named 'Temperature Dependent Motor Control'. The main purpose of this experiment is to adjust the speed of a motor according to the temperature. If the temperature is high, motor speed will increase and if temperature is low, motor speed will decrease.
 # Apparatus
 Arduino UNO, LED Indicators (3 pieces - Red, Yellow, and Green), Temperature Sensor, Breadboard, DC Motor, H-bridge Motor Driver, 1 KΩ Resistors (3 pieces), Connecting Wires 
 # Experimental Set-up
